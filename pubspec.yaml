@@ -1,0 +1,17 @@
+name: weavanity
+description: A sample command-line application.
+version: 1.0.0
+# homepage: https://www.example.com
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: ^1.16.0
+dependencies:
+  args: ^2.3.0
+  colorize: ^3.0.0
+  cryptography: ^2.0.5
+  jwk: ^0.1.1
+  pointycastle: ^3.5.0
